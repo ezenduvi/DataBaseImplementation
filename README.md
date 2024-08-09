@@ -11,14 +11,12 @@ The project is structured into three phases:
 ### Phase 1: Data Collection and Database Creation
 - **Objective**: Gather real-world data from a publicly available source and create a database.
 - **Dataset Requirements**: Must consist of at least 16 GB of data to ensure the effectiveness of database techniques.
-- **Deliverable**: A link to the dataset and confirmation that it is available for use.
 
 ### Phase 2: Query Implementation
 - **Objective**: Develop and implement a series of complex and meaningful queries using SQL functionalities such as `GROUP BY`, `ORDER BY`, and aggregate functions.
-- **Deliverable**: A short report containing the queries and sample outputs.
 
 ### Phase 3: Query Optimization and Analysis
-- **Objective**: Optimize and analyze the queries created in Phase 2 using techniques learned in class.
+- **Objective**: Optimize and analyze the queries created in Phase 2 using optimization techniques.
 - **Deliverable**: A comprehensive project report including:
   - **Introduction**: Overview of the dataset, reasoning for its selection, and a preview of results.
   - **Data**: Detailed description of the dataset (e.g., rows, columns, data types, source, size).
